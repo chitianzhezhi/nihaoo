@@ -22,7 +22,8 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    //self
+
+    //hallo
     // Dispose of any resources that can be recreated.
 }
 
